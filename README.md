@@ -1,5 +1,116 @@
 # DevFreela
 
+## Click on ► to choose your language
+
+<details>
+  <summary>English EN 🇺🇸
+  </summary>
+
+
+Welcome to **DevFreela**, a powerful and intuitive API designed to manage projects between clients and freelancers! This project was created to facilitate the connection between those who need services and those who can offer quality solutions.
+
+---
+
+##  About the Project
+
+**DevFreela** is an API built with **ASP.NET Core** that allows:
+- **Clients** create and manage projects.
+- **Freelancers** apply for projects and track their progress.
+- Efficient management of tasks, deadlines and deliveries.
+
+This project was developed to review and apply fundamental API concepts, such as controllers, actions, endpoints, dependency injection, exception management and much more.
+
+---
+
+##  Technologies Used
+
+- **Language**: C#
+- **Framework**: ASP.NET Core
+- **Main Features**:
+  - Controllers and Actions to manage projects and users.
+  - RESTful endpoints for CRUD operations.
+  - Dependency injection to improve modularity and testability.
+  - Exception management to ensure a user-friendly error experience.
+  - File input configuration for uploading documents and images.
+
+---
+
+## How to Execute the Project
+
+Follow the steps below to run **DevFreela** locally:
+
+### Prerequisites
+
+- [.NET SDK](https://dotnet.microsoft.com/download) installed (version 6.0 or higher).
+- A code editor like [Visual Studio](https://visualstudio.microsoft.com/) or [VS Code](https://code.visualstudio.com/).
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LeanDevLima/DevFreela.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd DevFreela
+   ```
+3. Restore dependencies:
+   ```bash
+    dotnet restore
+   ```
+4. Run the project:
+   ```bash
+    dotnet run
+   ```
+5. Access the API in the browser or via tools like Postman or Insomnia:
+    ```bash
+    http://localhost:5000/api/projects
+   ```
+
+### Project Structure
+
+- **Controllers**: Responsible for managing API requests and responses.
+- **Models**: Represent system entities, such as projects, users and skills.
+- **Services**: Business logic and application rules.
+- **Middlewares**: Exception management and other global features.
+- **Settings**: Dependency injection and file input settings.
+
+### Main Features
+
+- **Project Registration**: Clients can create new projects with title, description, deadline and budget.
+- **Freelancer Application**: Freelancers can apply for available projects.
+- **File Upload**: Attach documents and images to projects.
+- **Exception Management**: Customized error handling to improve the user experience.
+- **RESTful Endpoints**: CRUD operations for projects, users and skills.
+
+
+---
+
+## Contribution
+
+Contributions are welcome! If you want to improve **DevFreela**, follow the steps below:
+1. Fork the project.
+2. Create a branch for your feature (`git checkout -b feature/nova-feature`).
+3. Commit your changes (`git commit -m 'Adding new feature'`).
+4. Push to the branch (`git push origin feature/nova-feature`).
+5. Open a Pull Request.
+
+---
+
+## 👨‍💻 Authors
+
+- **Leanderson** - Developer and API enthusiast. [Linkedin](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+
+---
+
+Made with ❤️ by **Leanderson**.
+
+</details>
+
+
+<details>
+  <summary>Portugues PT-BR 🇧🇷 
+  </summary>
+
 Bem-vindo ao **DevFreela**, uma API poderosa e intuitiva desenvolvida para gerenciar projetos entre clientes e freelancers! Este projeto foi criado para facilitar a conexão entre quem precisa de serviços e quem pode oferecer soluções de qualidade.
 
 ---
@@ -94,6 +205,9 @@ Contribuições são bem-vindas! Se você quiser melhorar o **DevFreela**, siga 
 ---
 
 Feito com ❤️ por **Leanderson**.
+
+
+</details>
 
 
    
