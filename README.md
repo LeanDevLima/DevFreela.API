@@ -98,7 +98,7 @@ Contributions are welcome! If you want to improve **DevFreela**, follow the step
 
 ## 👨‍💻 Authors
 
-- **Leanderson** - Developer and API enthusiast. [Linkedin](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+- **Leanderson** - Developer and API enthusiast. [Linkedin](https://www.linkedin.com/in/leanderson-dias-de-lima/?locale=en_US)
 
 ---
 
