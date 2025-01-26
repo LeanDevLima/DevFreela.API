@@ -206,8 +206,15 @@ Contribuições são bem-vindas! Se você quiser melhorar o **DevFreela**, siga 
 
 Feito com ❤️ por **Leanderson**.
 
-
 </details>
 
+
+## IMAGE
+
+<img src="API#DOTNET.png">
+
+## CERTIFICATE
+
+<img src="Certificado REST APis com ASP.NET Core.png">
 
    
